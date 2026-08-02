@@ -60,11 +60,11 @@ story: [
     },
     {
         title: 'Harapan',
-        description: 'Perkenalan kami  bermula dari Om Chiva, seorang pria yang kasih sayangnya kepada keponakannya melampaui kata-kata. Hingga suatu hari, Chiva berangkat Umroh. Di bawah langit Mekkah yang teduh, ia bersimpuh meminta yang terbaik bagi masa depannya.'
+        description: 'Perkenalan kami  bermula dari Saudara Chiva, seorang pria yang kasih sayangnya kepada keponakannya melampaui kata-kata. Hingga suatu hari, Chiva berangkat Umroh. Di bawah langit Mekkah yang teduh, ia bersimpuh meminta yang terbaik bagi masa depannya.'
     },
     {
         title: 'Membuka Pintu Komunikasi',
-        description: 'Di saat yang bersamaan, ribuan kilometer jauhnya, di sebuah acara, Ngali duduk tepat di sebelah Om Chiva. Tanpa direncanakan, momen  itu tiba hari itu juga. Foto Chiva ditunjukan kepada Ngali dengan keberanian yang tenang, yang akhirnya membuka pintu komunikasi kami.'
+        description: 'Di saat yang bersamaan, ribuan kilometer jauhnya, di sebuah acara, Ngali duduk tepat di sebelah Saudara Chiva. Tanpa direncanakan, momen  itu tiba hari itu juga. Foto Chiva ditunjukan kepada Ngali dengan keberanian yang tenang, yang akhirnya membuka pintu komunikasi kami.'
     },
     {
         title: 'Komunikasi dan Ketegasan',
