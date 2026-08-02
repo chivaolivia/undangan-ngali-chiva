@@ -19,7 +19,7 @@ export const data = {
             image: 'src/assets/images/test.jpeg',
 			address: 'Dusun Toyo, Waruk Kalong, Kec. Kwadungan, Kabupaten Ngawi, Jawa Timur'
         },
-        couple: 'src/assets/images/foto_karikatur.png'
+        couple: 'src/assets/images/cover.png'
     },
     time: {
         marriage: {
