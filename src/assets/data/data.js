@@ -62,7 +62,7 @@ story: [
     },
     {
         title: 'Menuju Pelaminan',
-        description: 'Alhamdulillah, Allah meridhoi perjalanan kasih kami. Kami siap melangkah ke jenjang pernikahan. Tanpa pacaran, tanpa kata-kata puitis yang berlebihan, kami menyepakati bahwa cinta tidak selalu harus meledak-ledak diawal,dari sebuah  foto yang ditunjukan di tempat kerja, berakhir menjadi janji suci di depan penghulu.'
+        description: 'Alhamdulillah, Allah meridhoi perjalanan kasih kami. Kami siap melangkah ke jenjang pernikahan. Tanpa pacaran, tanpa kata-kata puitis yang berlebihan, kami menyepakati bahwa cinta tidak selalu harus meledak-ledak diawal,dari sebuah  foto yang ditunjukan Saudara Chiva, berakhir menjadi janji suci di depan penghulu.'
     }
 ],
     bank: [
