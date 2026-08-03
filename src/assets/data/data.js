@@ -16,7 +16,7 @@ export const data = {
             child: 'Putra ke 2',
             father: 'Nasrip',
             mother: 'Suwarni',
-            image: 'src/assets/images/foto_ngali1.png',
+            image: 'src/assets/images/foto_ngali.png',
 			address: 'Dusun Toyo, Waruk Kalong, Kec. Kwadungan, Kabupaten Ngawi, Jawa Timur'
         },
         couple: 'src/assets/images/cover.png'
