@@ -57,7 +57,7 @@ export const data = {
     ],
 story: [
     {
-        title: 'Bagian Satu',
+        title: 'Takdir',
         description: 'Kisah tentang bagaimana takdir bekerja dengan cara yang paling tenang, namun paling pasti. Sebuah perjalanan yang tidak dimulai dengan debar jantung yang hebat, melainkan dengan restu yang mengalir begitu saja.'
     },
     {
